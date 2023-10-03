@@ -3,7 +3,7 @@ img {
   height: auto
 }
 
-unordered_list list_item{
+ul li{
     list-style-type: square;
     margin-bottom: 10px;
     margin-left: 50px;
